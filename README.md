@@ -1,3 +1,5 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeommss%2Fhit-counter&count_bg=%23736BFF&title_bg=%23FFFFFF&icon=&icon_color=%23FFFFFF&title=%F0%9F%92%9C&edge_flat=true)](https://hits.seeyoufarm.com)
+
 - 👋 Hi, I’m @yeommss
 - 👀 I’m interested in ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
 - 🌱 I’m currently learning ... <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
